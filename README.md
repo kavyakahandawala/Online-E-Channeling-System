@@ -258,4 +258,4 @@ Commercial distribution, reproduction, or modification without appropriate ackno
 
 ---
 
-## 🩺 HaloMed – Connecting Patients, Doctors, and Healthcare Services Through Technology
+🌟 Simplifying Healthcare, One Appointment at a Time.
