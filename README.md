@@ -238,17 +238,6 @@ git clone https://github.com/yourusername/HaloMed-E-Channeling-System.git
 
 ---
 
-# 👨‍💻 Development Team
-
-Developed as a collaborative academic project for:
-
-**IT2030 – Object-Oriented Programming**
-
-**BSc (Hons) Information Technology**
-
-**Sri Lanka Institute of Information Technology (SLIIT)**
-
----
 
 # 📄 License
 
